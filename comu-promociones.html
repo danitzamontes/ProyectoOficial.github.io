@@ -1,0 +1,362 @@
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Pagina de internacionalizacion</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+        <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+        <link rel="stylesheet" href="estilo.css">
+        <style>
+            p {
+                margin: 20px; 
+            }
+            select{
+                margin: 20px;
+            }
+            #fondomenu {
+                background-image: url('header-bg.png');
+                width: 100%;
+                height: auto;
+                background-size: cover;
+                background-repeat: no-repeat;
+                background-position: center;
+                color: white; 
+                padding: 20px 0; 
+            }
+            footer {          
+                color: white;
+                padding: 35px 0;
+                width: 100%; 
+                position: relative;
+                left: 0;
+                bottom: 0;
+            }
+            .footer-icons a {
+                color: white;
+                margin: 0 10px;
+                font-size: 24px;
+                transition: color 0.5s;
+            }
+
+            .footer-icons a:hover {
+                color: #898f96;
+            }
+        </style>
+    </head>
+    <body class="bg-stone-50 text-gray-900">
+        <div>
+            <nav class="navbar navbar-expand-lg bg-body-tertiary" id="fondomenu">
+                <div class="container-fluid">
+                    <a class="navbar-brand" href="index.html">Cafeteria DANNY</a>
+                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                    <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+                        <div class="navbar-nav" id="menu">
+                            <!--Aqui mi XML-->
+                        </div>
+                    </div>
+                </div>
+            </nav>
+        </div>
+   
+        <div>
+            <ul id="menu"></ul>
+        </div>
+        <select id="idioma">
+            <option value="es">Español</option>
+            <option value="en">English</option>
+        </select>
+        <div>
+            <ul id="juanita"></ul>
+        </div>
+        <!--body-->
+         <!--informacion sobre ingredientes-->
+        
+        <!-- Hero Section -->
+        <section class="text-center py-5 bg-red-100 text-black">
+            <h1 class="text-4xl font-bold" id="contenido1">¡PROMOCIONES!</h1>
+            <p class="mt-3 text-lg" id="contenido2">Disfruta de los beneficios exclusivos solo para ti.</p>
+            <a href="#promociones" class="mt-5 inline-block bg-red-200 text-black font-semibold py-2 px-6 rounded-lg hover:bg-red-400" id="3">Ver Promociones</a>
+        </section>
+
+        <!-- Promociones Section -->
+        <section id="promociones" class="container py-5">
+            <h2 class="text-center text-3xl font-bold mb-5" id="contenido4">Promociones Exclusivas para Miembros</h2>
+
+            <div class="row">
+                <!-- Promoción 1 -->
+                <div class="col-md-4 mb-4">
+                    <div class="card shadow-lg">
+                        <img src="./imagenes/promo2.jpg" class="card-img-top" alt="Descuento 10%">
+                        <div class="card-body">
+                            <h5 class="card-title" id="contenido5">Descuento del 30% en tu primera compra</h5>
+                            <p class="card-text" id="contenido6">Si eres un miembro nuevo, te damos un 30% de descuento en tu primera compra. Solo presenta tu tarjeta de miembro al pagar.</p>
+                            <a href="#" class="btn btn-danger text-indigo-600" id="contenido7">Aprovechar</a>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Promoción 2 -->
+                <div class="col-md-4 mb-4">
+                    <div class="card shadow-lg">
+                        <img src="./imagenes/promo1.jpg" class="card-img-top" alt="Happy Hour 2x1">
+                        <div class="card-body">
+                            <h5 class="card-title" id="contenido8">Happy Hour para miembros: 2x1 en bebidas frías</h5>
+                            <p class="card-text" id="contenido9">Disfruta de una oferta especial de 2x1 en todas nuestras bebidas frías, todos los jueves entre las 3:00 PM y 6:00 PM.</p>
+                            <a href="#" class="btn btn-danger text-indigo-600" id="contenido10">Aprovechar</a>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Promoción 3 -->
+                <div class="col-md-4 mb-4">
+                    <div class="card shadow-lg">
+                        <img src="./imagenes/promo3.jpg" class="card-img-top" alt="Programa de Puntos">
+                        <div class="card-body">
+                            <h5 class="card-title" id="contenido11">Programa de puntos</h5>
+                            <p class="card-text" id="contenido12">Acumula puntos con cada compra y canjéalos por productos gratuitos o descuentos especiales.</p>
+                            <a href="#" class="btn btn-danger text-indigo-600" id="contenido13">Aprovechar</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- ¿Cómo ser miembro? Section -->
+        <section class="bg-red-100 py-5">
+            <div class="container text-center">
+                <h2 class="text-3xl font-bold mb-3" id="contenido14">¿Cómo puedes ser parte del Club?</h2>
+                <p class="text-lg mb-4" id="contenido14">Es muy fácil ser miembro y disfrutar de todos estos beneficios. ¡Únete a nosotros hoy mismo!</p>
+                <a href="#" class="bg-red-300 text-white py-2 px-6 rounded-lg hover:bg-red-300" id="contenido15">Únete Ahora</a>
+            </div>
+        </section>
+        
+  
+        <div class="contenedor-principal bg-stone-50 p-6 items-center">
+            <div class=" bg-red-50  p-4 text-center" id="educontenido"> </div>
+            <div class=" bg-zinc-200 p-4 text-center" id="edu"> </div>
+            <div class=" bg-red-50 p-4 text-center" id="juanita1">  </div>
+            <div class=" bg-zinc-200 p-4 text-center" id="juanita2"> </div>
+            <div class="bg-red-50 p-4 text-center" id="juanita3"> </div>
+            <div class="w-full p-8 flex items-center justify-center"><img src="./imagenes/cafecito.jpg" alt="" class="rounded-lg"></div>
+        </div>
+         </div>
+          <!-- footer -->
+        <footer class="text-center mt-3 w-full w-screen bg-red-400">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12 mb-3">
+                        <p class="fs-6">&copy; Cafetería DANNY. Todos los derechos reservados.</p>
+                    </div>
+                    <div class="col-12">
+                        <div class="footer-icons flex justify-center">
+                            <a href="https://www.facebook.com" target="_blank" rel="noopener noreferrer" class="mx-3"><i class="fab fa-facebook-f"></i></a>
+                            <a href="https://www.instagram.com" target="_blank" rel="noopener noreferrer" class="mx-3"><i class="fab fa-instagram"></i></a>
+                            <a href="https://www.twitter.com" target="_blank" rel="noopener noreferrer" class="mx-3"><i class="fab fa-twitter"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </footer>
+       
+        <script>
+            let xmlDoc = null;
+
+            //cargar
+            function cargaXML(callback) {
+                const xhr = new XMLHttpRequest();
+                xhr.open("GET", "menu4-comu-promo.xml", true);
+                xhr.onload = function() {
+                    if (xhr.status === 200) {
+                        const parser = new DOMParser();
+                        xmlDoc = parser.parseFromString(xhr.responseText, "application/xml");
+                        console.log("XML cargado correctamente"); // Confirmación de carga correcta
+                        callback();
+                    } else {
+                        console.error("No puedo cargar el archivo XML");
+                    }
+                };
+                xhr.send();
+            }
+        
+            function cambioLenguaje(lenguaje) {
+                if (!xmlDoc) return;
+        
+                const menu = document.getElementById("menu");
+                const items = xmlDoc.getElementsByTagName("item");
+                menu.innerHTML = ""; // Limpiar el contenido del menú
+        
+                Array.from(items).forEach(item => {
+                    const id = item.getAttribute("id");
+                    const languageNode = item.getElementsByTagName(lenguaje)[0];
+                    if (!languageNode) {
+                        console.error(`No se encontró el nodo para el lenguaje: ${lenguaje}`);
+                        return;
+                    }
+        
+                    const nameNode = languageNode.getElementsByTagName("name")[0];
+                    const linkNode = languageNode.getElementsByTagName("link")[0];
+                    if (!nameNode || !linkNode) {
+                        console.error("Nodo 'name' o 'link' no encontrado");
+                        return;
+                    }
+        
+                    const name = nameNode.textContent;
+                    const link = linkNode.textContent;
+        
+                    if (name && link) {
+                        const li = document.createElement("li");
+                        li.classList.add("nav-item", "dropdown");
+        
+                        const a = document.createElement("a");
+                        a.classList.add("nav-link", "dropdown-toggle");
+                        a.href = link;
+                        a.setAttribute("id", `submenu-${id}`);
+                        a.setAttribute("role", "button");
+                        a.setAttribute("data-bs-toggle", "dropdown");
+                        a.setAttribute("aria-expanded", "false");
+                        a.textContent = name;
+        
+                        li.appendChild(a);
+        
+                        // Crear los submenús
+                        const submenuItems = languageNode.getElementsByTagName("submenu")[0];
+                        if (submenuItems) {
+                            const dropdownMenu = document.createElement("ul");
+                            dropdownMenu.classList.add("dropdown-menu");
+                            dropdownMenu.setAttribute("aria-labelledby", `submenu-${id}`);
+        
+                            Array.from(submenuItems.getElementsByTagName("item")).forEach(subItem => {
+                                const subItemNameNode = subItem.getElementsByTagName("name")[0];
+                                const subItemLinkNode = subItem.getElementsByTagName("link")[0];
+                                if (!subItemNameNode || !subItemLinkNode) {
+                                    console.error("Nodo 'name' o 'link' no encontrado en submenú");
+                                    return;
+                                }
+        
+                                const subItemName = subItemNameNode.textContent;
+                                const subItemLink = subItemLinkNode.textContent;
+        
+                                const subLi = document.createElement("li");
+                                const subA = document.createElement("a");
+                                subA.classList.add("dropdown-item");
+                                subA.href = subItemLink;
+                                subA.textContent = subItemName;
+                                subLi.appendChild(subA);
+                                dropdownMenu.appendChild(subLi);
+                            });
+        
+                            li.appendChild(dropdownMenu);
+                        }
+        
+                        menu.appendChild(li);
+                    }
+                });
+        
+                // Agregar id para realizar la internacionalización
+                const educontenido = xmlDoc.querySelector(`text[id="educontenido"] > ${lenguaje}`)?.textContent;
+                if (educontenido) {
+                    document.getElementById("educontenido").textContent = educontenido;
+                }
+                const edu = xmlDoc.querySelector(`text[id="edu"] > ${lenguaje}`)?.textContent;
+                if (edu) {
+                    document.getElementById("edu").textContent = edu;
+                }
+                const juanita = xmlDoc.querySelector(`text[id="juanita"] > ${lenguaje}`)?.textContent;
+                if (juanita) {
+                    document.getElementById("juanita").textContent = juanita;
+                }
+                const juanita1 = xmlDoc.querySelector(`text[id="juanita1"] > ${lenguaje}`)?.textContent;
+                if (juanita1) {
+                    document.getElementById("juanita1").textContent = juanita1;
+                }
+                const juanita2= xmlDoc.querySelector(`text[id="juanita2"] > ${lenguaje}`)?.textContent;
+                if (juanita2) {
+                    document.getElementById("juanita2").textContent = juanita2;
+                }
+                const juanita3= xmlDoc.querySelector(`text[id="juanita3"] > ${lenguaje}`)?.textContent;
+                if (juanita3) {
+                    document.getElementById("juanita3").textContent = juanita3;
+                }
+                const contenido1= xmlDoc.querySelector(`text[id="contenido1"] > ${lenguaje}`)?.textContent;
+                if (contenido1) {
+                    document.getElementById("contenido1").textContent = contenido1;
+                }
+                const contenido2= xmlDoc.querySelector(`text[id="contenido2"] > ${lenguaje}`)?.textContent;
+                if (contenido2) {
+                    document.getElementById("contenido2").textContent = contenido2;
+                }
+                const contenido3= xmlDoc.querySelector(`text[id="contenido3"] > ${lenguaje}`)?.textContent;
+                if (contenido3) {
+                    document.getElementById("contenido3").textContent = contenido3;
+                }
+                const contenido4= xmlDoc.querySelector(`text[id="contenido4"] > ${lenguaje}`)?.textContent;
+                if (contenido4) {
+                    document.getElementById("contenido4").textContent = contenido4;
+                }
+                const contenido5= xmlDoc.querySelector(`text[id="contenido5"] > ${lenguaje}`)?.textContent;
+                if (contenido5) {
+                    document.getElementById("contenido5").textContent = contenido5;
+                }
+                const contenido6= xmlDoc.querySelector(`text[id="contenido6"] > ${lenguaje}`)?.textContent;
+                if (contenido6) {
+                    document.getElementById("contenido6").textContent = contenido6;
+                }
+                const contenido7= xmlDoc.querySelector(`text[id="contenido7"] > ${lenguaje}`)?.textContent;
+                if (contenido7) {
+                    document.getElementById("contenido7").textContent = contenido7;
+                }
+                const contenido8= xmlDoc.querySelector(`text[id="contenido8"] > ${lenguaje}`)?.textContent;
+                if (contenido8) {
+                    document.getElementById("contenido8").textContent = contenido8;
+                }
+                const contenido9= xmlDoc.querySelector(`text[id="contenido9"] > ${lenguaje}`)?.textContent;
+                if (contenido9) {
+                    document.getElementById("contenido9").textContent = contenido9;
+                }
+                const contenido10= xmlDoc.querySelector(`text[id="contenido10"] > ${lenguaje}`)?.textContent;
+                if (contenido10) {
+                    document.getElementById("contenido10").textContent = contenido10;
+                }
+                const contenido11= xmlDoc.querySelector(`text[id="contenido11"] > ${lenguaje}`)?.textContent;
+                if (contenido11) {
+                    document.getElementById("contenido11").textContent = contenido11;
+                }
+                const contenido12= xmlDoc.querySelector(`text[id="contenido12"] > ${lenguaje}`)?.textContent;
+                if (contenido12) {
+                    document.getElementById("contenido12").textContent = contenido12;
+                }
+                const contenido13= xmlDoc.querySelector(`text[id="contenido13"] > ${lenguaje}`)?.textContent;
+                if (contenido13) {
+                    document.getElementById("contenido13").textContent = contenido13;
+                }
+                const contenido14= xmlDoc.querySelector(`text[id="contenido14"] > ${lenguaje}`)?.textContent;
+                if (contenido14) {
+                    document.getElementById("contenido14").textContent = contenido14;
+                }
+                const contenido15= xmlDoc.querySelector(`text[id="contenido15"] > ${lenguaje}`)?.textContent;
+                if (contenido15) {
+                    document.getElementById("contenido15").textContent = contenido15;
+                }
+                const contenido16= xmlDoc.querySelector(`text[id="contenido16"] > ${lenguaje}`)?.textContent;
+                if (contenido16) {
+                    document.getElementById("contenido16").textContent = contenido16;
+                }
+            }
+        
+            // idioma
+            document.getElementById('idioma').addEventListener('change', (event) => {
+                cambioLenguaje(event.target.value);
+            });
+            cargaXML(() => {
+                cambioLenguaje('es');
+            });
+        </script>
+        <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/js/all.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+        
+    </body>
+</html>
