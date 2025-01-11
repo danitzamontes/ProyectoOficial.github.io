@@ -83,12 +83,12 @@
         <header class="bg-cover bg-center h-screen text-white" style="background-image: url('./imagenes/portada.jpg');">
             <div class="flex items-center justify-center h-full bg-black bg-opacity-50">
                 <div class="text-center">
-                    <h1 class="text-4xl md:text-6xl font-bold">Bienvenido a la cafeteria DANNY</h1>
-                    <p class="text-lg md:text-2xl mt-4">Ofrecemos las mejores bebidas</p>
+                    <h1 class="text-4xl md:text-6xl font-bold" id="contenido1">Bienvenido a la cafeteria DANNY</h1>
+                    <p class="text-lg md:text-2xl mt-4" id="contenido2">Ofrecemos las mejores bebidas</p>
                 </div>
             </div>
         </header>
-        <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+        <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
             <div class="carousel-inner">
               <div class="carousel-item active">
                 <img class="d-block w-100" src="./imagenes/carusel1.jpg" alt="First slide">
@@ -100,25 +100,26 @@
                 <img class="d-block w-100" src="./imagenes/carusel3.jpg" alt="Third slide">
               </div>
             </div>
-            <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
               <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-              <span class="sr-only">Previous</span>
-            </a>
-            <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+              <span class="visually-hidden">Previous</span>
+            </button>
+            <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
               <span class="carousel-control-next-icon" aria-hidden="true"></span>
-              <span class="sr-only">Next</span>
-            </a>
+              <span class="visually-hidden">Next</span>
+            </button>
           </div>
+          
         <section id="servicios" class="py-5 bg-light">
             <div class="container">
-                <h2 class="text-center mb-4">Aquí encontraras</h2>
+                <h2 class="text-center mb-4" id="contenido3">Aquí encontraras</h2>
                 <div class="row">
                     <div class="col-md-4">
                         <div class="card mb-4">
                             <img src="./imagenes/principal1.jpg" class="tamaño" alt="Servicio 1">
                             <div class="card-body">
-                                <h5 class="card-title">Variedad de cafés</h5>
-                                <p class="card-text">"En cafetería DANNY, te ofrecemos una amplia selección de cafés de diferentes partes del mundo, ¡para que cada taza sea una nueva aventura de sabores!"</p>
+                                <h5 class="card-title" id="contenido4">Variedad de cafés</h5>
+                                <p class="card-text" id="contenido5">En cafetería DANNY, te ofrecemos una amplia selección de cafés de diferentes partes del mundo, ¡para que cada taza sea una nueva aventura de sabores!</p>
                             </div>
                         </div>
                     </div>
@@ -126,8 +127,8 @@
                         <div class="card mb-4">
                             <img src="./imagenes/principal2.jpg" class="tamaño" alt="Servicio 2">
                             <div class="card-body">
-                                <h5 class="card-title">Variedad de infusiones de hierbas</h5>
-                                <p class="card-text">En cafetería DANNY, ofrecemos una amplia variedad de hierbas frescas para infusiones, cócteles y más, perfectas para complementar tu experiencia y cuidar tu bienestar.</p>
+                                <h5 class="card-title" id="contenido6">Variedad de infusiones de hierbas</h5>
+                                <p class="card-text" id="contenido7">En cafetería DANNY, ofrecemos una amplia variedad de hierbas frescas para infusiones, cócteles y más, perfectas para complementar tu experiencia y cuidar tu bienestar.</p>
                             </div>
                         </div>
                     </div>
@@ -135,8 +136,8 @@
                         <div class="card mb-4">
                             <img src="./imagenes/principal3.jpg" class="tamaño" alt="Servicio 3">
                             <div class="card-body">
-                                <h5 class="card-title">Extras</h5>
-                                <p class="card-text">¡Haz que cada taza de café sea única! Personaliza tu bebida con nuestros deliciosos extras, desde magdalenas hasta riquisimas donas hechas en casa.</p>
+                                <h5 class="card-title" id="contenido8">Extras</h5>
+                                <p class="card-text" id="contenido9">¡Haz que cada taza de café sea única! Personaliza tu bebida con nuestros deliciosos extras, desde magdalenas hasta riquisimas donas hechas en casa.</p>
                             </div>
                         </div>
                     </div>
@@ -149,17 +150,17 @@
                 <h2 class="text-center text-3xl font-bold mb-8">Testimonios</h2>
                 <div class="flex justify-center space-x-6">
                     <div class="bg-white p-6 rounded-lg shadow-md w-72">
-                        <p class="text-lg italic">"Excelente servicio, superaron nuestras expectativas."</p>
+                        <p class="text-lg italic" id="contenido9">Excelente servicio, superaron nuestras expectativas.</p>
                         <h5 class="text-lg font-semibold mt-4">Juan Pérez</h5>
                         <p class="text-sm text-gray-500">CEO de Empresa XYZ</p>
                     </div>
                     <div class="bg-white p-6 rounded-lg shadow-md w-72">
-                        <p class="text-lg italic">"Totalmente recomendados, siempre cumplieron con sus compromisos."</p>
+                        <p class="text-lg italic" id="contenido10">Totalmente recomendados, siempre cumplieron con sus compromisos.</p>
                         <h5 class="text-lg font-semibold mt-4">María López</h5>
-                        <p class="text-sm text-gray-500">Fundadora de InnovateTech</p>
+                        <p class="text-sm text-gray-500" id="contenido11">Fundadora de InnovateTech</p>
                     </div>
                     <div class="bg-white p-6 rounded-lg shadow-md w-72">
-                        <p class="text-lg italic">"Un equipo altamente profesional y siempre dispuesto a ayudar."</p>
+                        <p class="text-lg italic" id="contenido12">"Un equipo altamente profesional y siempre dispuesto a ayudar."</p>
                         <h5 class="text-lg font-semibold mt-4">Carlos Gómez</h5>
                         <p class="text-sm text-gray-500">Director en Soluciones Avanzadas</p>
                     </div>
@@ -185,6 +186,7 @@
                     </div>
                     <div class="col-12">
                         <div class="footer-icons flex justify-center">
+
                             <a href="https://www.facebook.com" target="_blank" rel="noopener noreferrer" class="mx-3"><i class="fab fa-facebook-f"></i></a>
                             <a href="https://www.instagram.com" target="_blank" rel="noopener noreferrer" class="mx-3"><i class="fab fa-instagram"></i></a>
                             <a href="https://www.twitter.com" target="_blank" rel="noopener noreferrer" class="mx-3"><i class="fab fa-twitter"></i></a>

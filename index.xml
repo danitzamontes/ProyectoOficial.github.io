@@ -388,159 +388,55 @@
         <en>Find out the rating of the DANNY cafeteria:)</en>
     </text>
     <text id="contenido1">
-        <es>Valoraciones y reseñas</es>
-        <en>Ratings and Reviews</en>
+        <es>Bienvenido a la cafeteria DANNY</es>
+        <en>Welcome to the DANNY Cafeteria</en>
     </text>
     <text id="contenido2">
-        <es>¡Califícanos segun tu experiencia en la cafetería DANNY:)!</es>
-        <en>Rate us based on your experience at DANNY Coffee Shop:)!</en>
+        <es>Ofrecemos las mejores bebidas</es>
+        <en>We offer the best drinks</en>
     </text>
     <text id="contenido3">
-	    <es>Nombre:</es>
-        <en>Name:</en>
+	    <es>Aquí encontraras</es>
+        <en>Here you will find</en>
     </text>
     <text id="contenido4">
-        <es>Clasificación:</es>
+        <es>Variedad de cafés</es>
         <en>Classification:</en>
     </text>
     <text id="contenido5">
-        <es>Comentario:</es>
-        <en>Comment:</en>
+        <es>En cafetería DANNY, te ofrecemos una amplia selección de cafés de diferentes partes del mundo, ¡para que cada taza sea una nueva aventura de sabores!</es>
+        <en>At DANNY Coffee Shop, we offer you a wide selection of coffees from different parts of the world, so that each cup is a new adventure of flavors!</en>
     </text>
     <text id="contenido6">
-        <es>Guardar Valoración </es>
-        <en>Save Rating</en>
+        <es>Variedad de infusiones de hierbas </es>
+        <en>Variety of herbal teas</en>
     </text>
     <text id="contenido7">
-        <es>Título de la Pregunta</es>
-        <en>Question Title</en>
+        <es>En cafetería DANNY, ofrecemos una amplia variedad de hierbas frescas para infusiones, cócteles y más, perfectas para complementar tu experiencia y cuidar tu bienestar. </es>
+        <en>At DANNY Cafeteria, we offer a wide variety of fresh herbs for infusions, cocktails and more, perfect to complement your experience and take care of your well-being.</en>
     </text>
     <text id="contenido8">
-        <es>Descripción</es>
-        <en>Description</en>
+        <es>Extras</es>
+        <en>Extras</en>
     </text>
     <text id="contenido9">
-        <es>Publicar Pregunta</es>
-        <en>Post Question</en>
+        <es>Excelente servicio, superaron nuestras expectativas.</es>
+        <en>Excellent service, exceeded our expectations.</en>
     </text>
     <text id="contenido10">
-        <es>Usuario: Pamela Rios</es>
-        <en>User: Pamela Rios</en>
+        <es>Totalmente recomendados, siempre cumplieron con sus compromisos.</es>
+        <en>Totally recommended, they always fulfilled their commitments.</en>
     </text>
     <text id="contenido11">
-        <es>Nuevo postre</es>
-        <en>New dessert</en>
+        <es>Fundadora de InnovateTech</es>
+        <en>Founder of InnovateTech</en>
     </text>
     <text id="contenido12">
-        <es>Si lanzáramos un nuevo postre o bebida, ¿qué ingredientes te gustaría ver en él?</es>
-        <en>If we were to launch a new dessert or drink, what ingredients would you like to see in it?</en>
+        <es>Un equipo altamente profesional y siempre dispuesto a ayudar.</es>
+        <en>"A highly professional team and always ready to help."</en>
     </text>
     <text id="contenido13">
-        <es>Responder</es>
-        <en>Respond</en>
-    </text>
-    <text id="contenido14">
-        <es>Deja tu respuesta</es>
-        <en>Leave your reply</en>
-    </text>
-    <text id="contenido15">
-        <es>Publicar Respuesta</es>
-        <en>Post Reply</en>
-    </text>
-    <text id="contenido16">
-        <es>Usuario: Diego Castro</es>
-        <en>User: Diego Castro</en>
-    </text>
-    <text id="contenido17">
-        <es>Promociones</es>
-        <en>Promotions</en>
-    </text>
-    <text id="contenido18">
-        <es>¿Qué opinas de las promociones especiales o descuentos en bebidas? ¿Qué tipo de promociones te gustaría que tuviéramos más a menudo?</es>
-        <en>What do you think of special promotions or discounts on drinks? What kind of promotions would you like us to have more often?</en>
-    </text>
-    <text id="contenido19">
-        <es>Responder</es>
-        <en>Respond</en>
-    </text>
-    <text id="contenido20">
-        <es>Deja tu respuesta</es>
-        <en>Leave your reply</en>
-    </text>
-    <text id="contenido21">
-        <es>Publicar Respuesta</es>
-        <en>Post Reply</en>
-    </text>
-    <text id="contenido22">
-        <es>Seleccionar</es>
-        <en>Select</en>
-    </text>
-    <text id="contenido23">
-        <es>INFUSIONES DE HIERBAS</es>
-        <en>HERBAL INFUSIONS</en>
-    </text>
-    <text id="contenido24">
-        <es>TÉ DE CEDRON</es>
-        <en>LEMON VERBENA TEA</en>
-    </text>
-    <text id="contenido25">
-        <es>Seleccionar</es>
-        <en>Select</en>
-    </text>
-    <text id="contenido26">
-        <es>TÉ DE JENGIBRE</es>
-        <en>GINGER TEA</en>
-    </text>
-    <text id="contenido27">
-        <es>Seleccionar</es>
-        <en>Select</en>
-    </text>
-    <text id="contenido28">
-        <es>TÉ DE LAVANDA</es>
-        <en>LAVENDER TEA</en>
-    </text>
-    <text id="contenido29">
-        <es>Seleccionar</es>
-        <en>Select</en>
-    </text>
-    <text id="contenido30">
-        <es>TÉ DE MANZANILLA</es>
-        <en>CHAMOMILE TEA</en>
-    </text>
-    <text id="contenido31">
-        <es>Seleccionar</es>
-        <en>Select</en>
-    </text>
-    <text id="contenido32">
-        <es>TÉ DE MENTA</es>
-        <en>MINT TEA</en>
-    </text>
-    <text id="contenido33">
-        <es>Seleccionar</es>
-        <en>Select</en>
-    </text>
-    <text id="contenido34">
-        <es>TÉ DE JAMAICA</es>
-        <en>HIBISCUS TEA</en>
-    </text>
-    <text id="contenido35">
-        <es>Seleccionar</es>
-        <en>Select</en>
-    </text>
-    <text id="contenido36">
-        <es>TÉ DE TILO</es>
-        <en>LINDEN TEA</en>
-    </text>
-    <text id="contenido37">
-        <es>Seleccionar</es>
-        <en>Select</en>
-    </text>
-    <text id="contenido38">
-        <es>TÉ DE ANÍS</es>
-        <en>ANANISE TEA</en>
-    </text>
-    <text id="contenido39">
-        <es>Seleccionar</es>
-        <en>Select</en>
+        <es>Director en Soluciones Avanzadas</es>
+        <en>Director at Advanced Solutions</en>
     </text>
 </translations>
