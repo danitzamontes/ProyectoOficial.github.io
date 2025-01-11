@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- URL principal del sitio -->
+  <url>
+    <loc>https://danitzamontes.github.io/ProyectoOficial.github.io/index.html</loc>
+    <lastmod>2025-01-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- 1-inicio-descricion del configurador-->
+  <url>
+    <loc>https://danitzamontes.github.io/ProyectoOficial.github.io/inicio-descripcion.html</loc>
+    <lastmod>2025-01-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <!--1-inicio-proposito de personalizar pedidos-->
+  <url>
+    <loc>https://danitzamontes.github.io/ProyectoOficial.github.io/inicio-proposito.html</loc>
+    <lastmod>2025-01-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <!--1-inicio-instruciones para hacer un pedido-->
+  <url>
+    <loc>https://danitzamontes.github.io/ProyectoOficial.github.io/inicio-instrucciones.html</loc>
+    <lastmod>2025-01-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+ <!--1-inicio-preguntas frecuentes-->
+    <url>
+    <loc>https://danitzamontes.github.io/ProyectoOficial.github.io/inicio-preguntas.html</loc>
+    <lastmod>2025-01-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+   <!--2-selecion de productos-opciones de bebidas -->
+  <url>
+    <loc>https://danitzamontes.github.io/ProyectoOficial.github.io/selec-opciones.html</loc>
+    <lastmod>2025-01-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+   <!--2-seleccion de productos-seleccion de alimentos-->
+  <url>
+    <loc>https://danitzamontes.github.io/ProyectoOficial.github.io/selec-alimentos.html</loc>
+    <lastmod>2025-01-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+   <!--2-seleccion de productos-personalizacion de las opciones-->
+  <url>
+    <loc>https://danitzamontes.github.io/ProyectoOficial.github.io/selec-personalizacion.html</loc>
+    <lastmod>2025-01-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+   <!--2-selecion de productos-confirmacion de seleccion-->
+  <url>
+    <loc>https://danitzamontes.github.io/ProyectoOficial.github.io/selec-confirmacion.html</loc>
+    <lastmod>2025-01-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+   <!--3-resumen de pedido-detalles del pedido final-->
+  <url>
+    <loc>https://danitzamontes.github.io/ProyectoOficial.github.io/resumen-detalles.html</loc>
+    <lastmod>2025-01-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+   <!--3-resumen del pedido-opciones de pago-->
+  <url>
+    <loc>https://danitzamontes.github.io/ProyectoOficial.github.io/resumen-opciones.html</loc>
+    <lastmod>2025-01-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+   <!--3-resumen de pedido-direccion de entrega o recogida-->
+  <url>
+    <loc>https://danitzamontes.github.io/ProyectoOficial.github.io/resumen-direccion.html</loc>
+    <lastmod>2025-01-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+   <!--3-resumen de pedido-confirmacion de pedido-->
+  <url>
+    <loc>https://danitzamontes.github.io/ProyectoOficial.github.io/resumen-opciones.html</loc>
+    <lastmod>2025-01-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+   <!--4-recomendaciones-productos populares de la cafetería-->
+  <url>
+    <loc>https://danitzamontes.github.io/ProyectoOficial.github.io/reco-productos.html</loc>
+    <lastmod>2025-01-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+   <!--4-recomendaciones-ofertas y descuentos especiales-->
+  <url>
+    <loc>https://danitzamontes.github.io/ProyectoOficial.github.io/reco-ofertas.html</loc>
+    <lastmod>2025-01-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+   <!--4-recomendaciones-sugerencias segun tu preferencia-->
+  <url>
+    <loc>https://danitzamontes.github.io/ProyectoOficial.github.io/reco-sugerencias.html</loc>
+    <lastmod>2025-01-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+   <!--4-recomendaciones-opciones para modificar tu pedido-->
+  <url>
+    <loc>https://danitzamontes.github.io/ProyectoOficial.github.io/reco-opciones.html</loc>
+    <lastmod>2025-01-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+   <!--5-comunidad-foros sobre productos-->
+  <url>
+    <loc>https://danitzamontes.github.io/ProyectoOficial.github.io/comu-foro.html</loc>
+    <lastmod>2025-01-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+   <!--5-comunidad-valoraciones y reseñas de otros clientes-->
+  <url>
+    <loc>https://danitzamontes.github.io/ProyectoOficial.github.io/comu-valoracion.html</loc>
+    <lastmod>2025-01-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+   <!--5-comunidad-encuentros de cafe tematico-->
+  <url>
+    <loc>https://danitzamontes.github.io/ProyectoOficial.github.io/comu-encuentros.html</loc>
+    <lastmod>2025-01-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+   <!--5comunidad-promociones exclusivas para mienbros -->
+  <url>
+    <loc>https://danitzamontes.github.io/ProyectoOficial.github.io/comu-promociones.html</loc>
+    <lastmod>2025-01-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+   <!--6-extras-recetas de bebidas caseras-->
+  <url>
+    <loc>https://danitzamontes.github.io/ProyectoOficial.github.io/extra-recetas.html</loc>
+    <lastmod>2025-01-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+   <!--6-extras-consejos para elegir el mejor café-->
+  <url>
+    <loc>https://danitzamontes.github.io/ProyectoOficial.github.io/extra-consejos.html</loc>
+    <lastmod>2025-01-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+   <!--6-extras-videos sobre como preparar café-->
+  <url>
+    <loc>https://danitzamontes.github.io/ProyectoOficial.github.io/extra-videos.html</loc>
+    <lastmod>2025-01-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+   <!--6-comparativas de cafeterias locales-->
+  <url>
+    <loc>https://danitzamontes.github.io/ProyectoOficial.github.io/extra-comparativas.html</loc>
+    <lastmod>2025-01-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+   <!--7-faq-como cambiar mi pedido-->
+  <url>
+    <loc>https://danitzamontes.github.io/ProyectoOficial.github.io/faq-cambio.html</loc>
+    <lastmod>2025-01-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+   <!--7-faq-politica de devoluciones-->
+  <url>
+    <loc>https://danitzamontes.github.io/ProyectoOficial.github.io/faq-politica.html</loc>
+    <lastmod>2025-01-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+   <!--7-faq-Informacion sobre ingrediente-->
+  <url>
+    <loc>https://danitzamontes.github.io/ProyectoOficial.github.io/faq-informacion.html</loc>
+    <lastmod>2025-01-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+   <!--7-contactar soporte-->
+  <url>
+    <loc>https://danitzamontes.github.io/ProyectoOficial.github.io/faq-contactar.html</loc>
+    <lastmod>2025-01-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+   <!--8-contacto-formulario de contacto-->
+  <url>
+    <loc>https://danitzamontes.github.io/ProyectoOficial.github.io/contacto-formulario.html</loc>
+    <lastmod>2025-01-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+   <!--8-contacto-redes sociales-->
+  <url>
+    <loc>https://danitzamontes.github.io/ProyectoOficial.github.io/contacto-redes.html</loc>
+    <lastmod>2025-01-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+   <!--8-contacto-feedback y sugerencias-->
+  <url>
+    <loc>https://danitzamontes.github.io/ProyectoOficial.github.io/contacto-feedback.html</loc>
+    <lastmod>2025-01-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+</urlset>
