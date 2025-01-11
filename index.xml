@@ -364,16 +364,16 @@
     </menu>
     <!--hasta aqui todo el menu funcional-->
     <text id="educontenido">
-        <es>¿CUÉNTAME QUE TE</es>
-        <en>TELL ME WHAT YOU</en>
+        <es>ESPERO</es>
+        <en>I WISH</en>
     </text>
     <text id="edu">
-        <es> PARECEN LAS</es>
-        <en> THEY LOOK LIKE THE</en>
+        <es> QUE</es>
+        <en> WHAT</en>
     </text>
     <text id="juanita1">
-        <es>VALORACIONES</es>
-        <en>VALUATIONS</en>
+        <es>DISFRUTES</es>
+        <en>ENJOY</en>
     </text>
     <text id="juanita2">
         <es>DE ESTA</es>
@@ -384,8 +384,8 @@
         <en>SECTION?</en>
     </text>
     <text id="juanita">
-        <es>Conoce la valoración de la cafetería DANNY:)</es>
-        <en>Find out the rating of the DANNY cafeteria:)</en>
+        <es>Bienvenidos a DANNY</es>
+        <en>Welcome to DANNY</en>
     </text>
     <text id="contenido1">
         <es>Bienvenido a la cafeteria DANNY</es>
@@ -428,12 +428,12 @@
         <en>Totally recommended, they always fulfilled their commitments.</en>
     </text>
     <text id="contenido11">
-        <es>Fundadora de InnovateTech</es>
-        <en>Founder of InnovateTech</en>
+        <es>Fundadora de DANNY</es>
+        <en>Founder of DANNY</en>
     </text>
     <text id="contenido12">
-        <es>Un equipo altamente profesional y siempre dispuesto a ayudar.</es>
-        <en>"A highly professional team and always ready to help."</en>
+        <es>Un equipo altamente profesional que disfrutan de su trabajo</es>
+        <en>A highly professional team who enjoy their work</en>
     </text>
     <text id="contenido13">
         <es>Director en Soluciones Avanzadas</es>
