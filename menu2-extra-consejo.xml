@@ -1,0 +1,526 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translations>
+    <menu>
+        <item id="inicio">
+            <es>
+                <name>Inicio</name>
+                <link>inicio.html</link>
+                <submenu>
+                    <item>
+                        <name>Descripción del configurador</name>
+                        <link>inicio-descripcion.html</link>
+                    </item>
+                    <item>
+                        <name>Propósito de personalizar los pedidos</name>
+                        <link>inicio-proposito.html</link>
+                    </item>
+                    <item>
+                        <name>Instrucciones para hacer un pedido</name>
+                        <link>inicio-instrucciones.html</link>
+                    </item>
+                    <item>
+                        <name>Preguntas frecuentes</name>
+                        <link>inicio-preguntas.html</link>
+                    </item>
+                </submenu>
+            </es>
+            <en>
+                <name>Start</name>
+                <link>inicio.html</link>
+                <submenu>
+                    <item>
+                        <name>Configurator Description</name>
+                        <link>inicio-descripcion.html</link>
+                    </item>
+                    <item>
+                        <name>Purpose of customizing orders</name>
+                        <link>inicio-proposito.html</link>
+                    </item>
+                    <item>
+                        <name>Instructions for placing an order</name>
+                        <link>inicio-instrucciones.html</link>
+                    </item>
+                    <item>
+                        <name>Frequently asked questions</name>
+                        <link>inicio-preguntas.html</link>
+                    </item>
+                </submenu>
+            </en>
+        </item>
+        <item id="selecciondeproductos">
+            <es>
+                <name>Selección de productos</name>
+                <link>selecciondeproductos.html</link>
+                <submenu>
+                    <item>
+                        <name>Opciones de bebidas</name>
+                        <link>selec-opciones.html</link>
+                    </item>
+                    <item>
+                        <name>Selección de alimentos</name>
+                        <link>selec-alimentos.html</link>
+                    </item>
+                    <item>
+                        <name>Personalización de las opciones</name>
+                        <link>selec-personalizacion.html</link>
+                    </item>
+                    <item>
+                        <name>Confirmación de selección</name>
+                        <link>selec-confirmacion.html</link>
+                    </item>
+                </submenu>
+            </es>
+            <en>
+                <name>Product selection</name>
+                <link>selecciondeproductos.html</link>
+                <submenu>
+                    <item>
+                        <name>Beverage Options</name>
+                        <link>selec-opciones.html</link>
+                    </item>
+                    <item>
+                        <name>Food selection</name>
+                        <link>selec-alimentos.html</link>
+                    </item>
+                    <item>
+                        <name>Customization of options</name>
+                        <link>selec-personalizacion.html</link>
+                    </item>
+                    <item>
+                        <name>Selection confirmation</name>
+                        <link>selec-confirmacion.html</link>
+                    </item>
+                </submenu>
+            </en>
+        </item>
+        <item id="resumendepedidos">
+            <es>
+                <name>Resumen de pedidos</name>
+                <link>resumendepedidos.html</link>
+                <submenu>
+                    <item>
+                        <name>Detalles del pedido final</name>
+                        <link>resumen-detalles.html</link>
+                    </item>
+                    <item>
+                        <name>Opciones de pago</name>
+                        <link>resumen-opciones.html</link>
+                    </item>
+                    <item>
+                        <name>Dirección de entrega o recogida</name>
+                        <link>resumen-direccion.html</link>
+                    </item>
+                    <item>
+                        <name>Confirmación de pedido</name>
+                        <link>resumen-opciones.html</link>
+                    </item>
+                </submenu>
+            </es>
+            <en>
+                <name>Order Overview</name>
+                <link>resumenpedidos.html</link>
+                <submenu>
+                    <item>
+                        <name>Final Order Details</name>
+                        <link>resumen-detalles.html</link>
+                    </item>
+                    <item>
+                        <name>Payment Options</name>
+                        <link>resumen-opciones.html</link>
+                    </item>
+                    <item>
+                        <name>Delivery or pick-up address</name>
+                        <link>resumen-direccion.html</link>
+                    </item>
+                    <item>
+                        <name>Order confirmation</name>
+                        <link>resumen-opciones.html</link>
+                    </item>
+                </submenu>
+            </en>
+        </item>
+        <item id="recomendaciones">
+            <es>
+                <name>Recomendaciones</name>
+                <link>recomendaciones.html</link>
+                <submenu>
+                    <item>
+                        <name>Productos populares</name>
+                        <link>reco-productos.html</link>
+                    </item>
+                    <item>
+                        <name>Ofertas y descuentos especiales</name>
+                        <link>reco-ofertas.html</link>
+                    </item>
+                    <item>
+                        <name>Sugerencias según tus preferencias</name>
+                        <link>reco-sugerencias.html</link>
+                    </item>
+                    <item>
+                        <name>Opciones para modificar tus pedidos</name>
+                        <link>reco-opciones.html</link>
+                    </item>
+                </submenu>
+            </es>
+            <en>
+                <name>Recommendations</name>
+                <link>recomendaciones.html</link>
+                <submenu>
+                    <item>
+                        <name>Popular Products</name>
+                        <link>reco-productos.html</link>
+                    </item>
+                    <item>
+                        <name>Special offers and discounts</name>
+                        <link>reco-ofertas.html</link>
+                    </item>
+                    <item>
+                        <name>Suggestions based on your preferences</name>
+                        <link>reco-sugerencias.html</link>
+                    </item>
+                    <item>
+                        <name>Options to modify your orders</name>
+                        <link>reco-opciones.html</link>
+                    </item>
+                </submenu>
+            </en>
+        </item>
+        <item id="comunidad">
+            <es>
+                <name>Comunidad</name>
+                <link>comunidad.html</link>
+                <submenu>
+                    <item>
+                        <name>Foro sobre productos favoritos</name>
+                        <link>comu-foro.html</link>
+                    </item>
+                    <item>
+                        <name>Valoración y reseñas de otros clientes</name>
+                        <link>comu-valoracion.html</link>
+                    </item>
+                    <item>
+                        <name>Encuentros de café temáticos</name>
+                        <link>comu-encuentros.html</link>
+                    </item>
+                    <item>
+                        <name>Promociones exclusivas para miembros</name>
+                        <link>comu-promociones.html</link>
+                    </item>
+                </submenu>
+            </es>
+            <en>
+                <name>Community</name>
+                <link>comunidad.html</link>
+                <submenu>
+                    <item>
+                        <name>Favorite Products Forum</name>
+                        <link>comu-foro.html</link>
+                    </item>
+                    <item>
+                        <name>Rating and reviews from other customers</name>
+                        <link>comu-valoracion.html</link>
+                    </item>
+                    <item>
+                        <name>Themed coffee meetings</name>
+                        <link>comu-encuentros.html</link>
+                    </item>
+                    <item>
+                        <name>Exclusive Promotions for Members</name>
+                        <link>comu-promociones.html</link>
+                    </item>
+                </submenu>
+            </en>
+        </item>
+        <item id="extras">
+            <es>
+                <name>Extras</name>
+                <link>extras.html</link>
+                <submenu>
+                    <item>
+                        <name>Recetas de bebidas caseras</name>
+                        <link>extra-recetas.html</link>
+                    </item>
+                    <item>
+                        <name>Consejos para elegir el mejor café</name>
+                        <link>extra-consejos.html</link>
+                    </item>
+                    <item>
+                        <name>Videos sobre como preparar café</name>
+                        <link>extra-videos.html</link>
+                    </item>
+                    <item>
+                        <name>Comparativas de cafeterías locales</name>
+                        <link>extra-comparativas.html</link>
+                    </item>
+                </submenu>
+            </es>
+            <en>
+                <name>Extras</name>
+                <link>extras.html</link>
+                <submenu>
+                    <item>
+                        <name>Homemade drink recipes</name>
+                        <link>extra-recetas.html</link>
+                    </item>
+                    <item>
+                        <name>Tips for choosing the best coffee</name>
+                        <link>extra-consejos.html</link>
+                    </item>
+                    <item>
+                        <name>Videos on how to brew coffee</name>
+                        <link>extra-videos.html</link>
+                    </item>
+                    <item>
+                        <name>Local coffee shop comparisons</name>
+                        <link>extra-comparativas.html</link>
+                    </item>
+                </submenu>
+            </en>
+        </item>
+        <item id="faq">
+            <es>
+                <name>FAQ</name>
+                <link>faq.html</link>
+                <submenu>
+                    <item>
+                        <name>¿Cómo cambiar mi pedido?</name>
+                        <link>faq-cambio.html</link>
+                    </item>
+                    <item>
+                        <name>Política de devoluciones</name>
+                        <link>faq-politica.html</link>
+                    </item>
+                    <item>
+                        <name>Información sobre ingredientes</name>
+                        <link>faq-informacion.html</link>
+                    </item>
+                    <item>
+                        <name>Contactar soporte</name>
+                        <link>faq-contactar.html</link>
+                    </item>
+                </submenu>
+            </es>
+            <en>
+                <name>FAQ</name>
+                <link>faq.html</link>
+                <submenu>
+                    <item>
+                        <name>How do I change my order?</name>
+                        <link>faq-cambio.html</link>
+                    </item>
+                    <item>
+                        <name>Return Policy</name>
+                        <link>faq-politica.html</link>
+                    </item>
+                    <item>
+                        <name>Ingredient Information</name>
+                        <link>faq-informacion.html</link>
+                    </item>
+                    <item>
+                        <name>Contact Support</name>
+                        <link>faq-contactar.html</link>
+                    </item>
+                </submenu>
+            </en>
+        </item>
+        <item id="contacto">
+            <es>
+                <name>Contacto</name>
+                <link>contacto.html</link>
+                <submenu>
+                    <item>
+                        <name>Formulario de contacto</name>
+                        <link>contacto-formulario.html</link>
+                    </item>
+                    <item>
+                        <name>Redes sociales</name>
+                        <link>contacto-redes.html</link>
+                    </item>
+                    <item>
+                        <name>Feedback y sugerencias</name>
+                        <link>contacto-feedback.html</link>
+                    </item>
+                </submenu>
+            </es>
+            <en>
+                <name>Contact</name>
+                <link>contacto.html</link>
+                <submenu>
+                    <item>
+                        <name>Contact form</name>
+                        <link>contacto-formulario.html</link>
+                    </item>
+                    <item>
+                        <name>Social Media</name>
+                        <link>contacto-redes.html</link>
+                    </item>
+                    <item>
+                        <name>Feedback and suggestions</name>
+                        <link>contacto-feedback.html</link>
+                    </item>
+                </submenu>
+            </en>
+        </item>
+    </menu>
+    <!--hasta aqui todo el menu funcional-->
+    <text id="educontenido">
+    <es>¿QUÉ TE PARECIÓ</es>
+    <en>WHAT DID YOU THINK</en>
+    </text>
+    <text id="edu">
+	<es> LOS CONSEJOS </es>
+    <en>THE TIPS</en>
+    </text>
+    <text id="juanita1">
+	<es>PARA ELEGIR </es>
+    <en>TO CHOOSE</en>
+</text>
+<text id="juanita2">
+	<es>EL MEJOR </es>
+    <en>THE BEST</en>
+</text>
+<text id="juanita3">
+	<es>CAFÉ?</es>
+    <en>COFEE?</en>
+</text>
+<text id="juanita">
+	<es>Aquí puedes ver los consejos:)</es>
+    <en>Here you can see the tips:)</en>
+</text>
+<text id="contenido1">
+	<es>Consejos para elegir el mejor café</es>
+    <en>Tips for choosing the best coffee</en>
+</text>
+<text id="contenido2">
+	<es>Aqui te dejamos unos consejos para que puedas elegir el mejor café</es>
+    <en>Here are some tips so you can choose the best coffee</en>
+</text>
+<text id="contenido3">
+	<es>Define tus preferencias de sabor</es>
+    <en>Define your taste preferences</en>
+</text>
+<text id="contenido4">
+	<es>El café tiene una amplia gama de sabores, que pueden variar desde notas afrutadas, florales o de nuez, hasta sabores más oscuros y achocolatados. Identificar qué tipo de sabor prefieres te ayudará a elegir el grano adecuado. Los cafés de especialidad generalmente tienen notas más complejas y variadas que los cafés comerciales.</es>
+    <en>Coffee has a wide range of flavors, which can range from fruity, floral, or nutty notes, to darker, chocolatey flavors. Identifying what type of flavor you prefer will help you choose the right grain. Specialty coffees generally have more complex and varied notes than commercial coffees.</en>
+</text>
+<text id="contenido5">
+	<es>Compra café de especialidad</es>
+    <en>Buy specialty coffee</en>
+</text>
+<text id="contenido6">
+	<es>El café de especialidad es aquel que ha sido cultivado y procesado con un alto nivel de calidad. Estos cafés suelen tener una mejor calidad de grano y una trazabilidad clara desde su origen. Asegúrate de que el café que elijas esté etiquetado como café de especialidad, ya que estos granos están sometidos a rigurosos controles de calidad.</es>
+    <en>Specialty coffee is coffee that has been grown and processed to a high level of quality. These coffees usually have a better bean quality and clear traceability from their origin. Make sure that the coffee you choose is labeled as specialty coffee, as these beans undergo rigorous quality controls.</en>
+</text>
+<text id="contenido7">
+	<es>Verifica el origen del grano</es>
+    <en>Verify the origin of the grain</en>
+</text>
+<text id="contenido8">
+	<es>Los granos de café provienen de diferentes regiones, y cada una tiene sus propias características. Algunas de las regiones más famosas son:
+                    Etiopía: Conocido por sus cafés afrutados y florales.
+                    Colombia: Típicamente suave, con un balance entre acidez y dulzura.
+                    Brasil: Generalmente tiene un sabor más suave, a menudo con notas de nuez y chocolate.
+                    Guatemala: Famoso por sus cafés con buena acidez y notas de frutas cítricas.</es>
+    <en>Coffee beans come from different regions, and each has its own characteristics. Some of the most famous regions are 
+                    Ethiopia: Known for its fruity and floral coffees.
+                    Colombia: Typically mild, with a balance between acidity and sweetness.
+                    Brazil: Generally has a milder flavor, often with notes of nutty and chocolate.
+                    Guatemala: Famous for its coffees with good acidity and notes of citrus fruits. </en>
+</text>
+<text id="contenido9">
+	<es>Considera el tipo de tueste</es>
+    <en>Consider the type of roast</en>
+</text>
+<text id="contenido10">
+	<es>El tueste de los granos es un factor clave en el sabor del café. Existen tres tipos principales:
+        Tueste claro: Con menos desarrollo, se mantienen los sabores naturales del grano, como frutas o flores. Ideal para quienes prefieren un sabor más delicado.
+        Tueste medio: Es el tueste más versátil, con un buen equilibrio entre la acidez, el cuerpo y las notas de sabor.
+        Tueste oscuro: Los granos adquieren un sabor más fuerte y amargo, a menudo con notas a chocolate o caramelo. Es adecuado para quienes prefieren cafés más intensos.</es>
+    <en>The roasting of the beans is a key factor in the taste of coffee. There are three main types:
+        Light roast: With less development, the natural flavors of the bean, such as fruits or flowers, are maintained. Ideal for those who prefer a more delicate flavor.
+        Medium roast: This is the most versatile roast, with a good balance of acidity, body, and flavor notes.
+        Dark roast: The beans take on a stronger, more bitter flavor, often with notes of chocolate or caramel. It is suitable for those who prefer more intense coffees.</en>
+</text>
+<text id="contenido11">
+	<es>Frescor del café</es>
+    <en>Coffee freshness</en>
+</text>
+<text id="contenido12">
+	<es>El café pierde frescura rápidamente después de ser molido, por lo que es mejor comprarlo en grano y molerlo justo antes de prepararlo. Además, es importante verificar la fecha de tueste en el paquete, ya que los granos frescos siempre ofrecen un mejor sabor.</es>
+    <en>Coffee loses freshness quickly after being ground, so it's best to buy it in beans and grind it just before brewing. Also, it's important to check the roast date on the package, as fresh beans always offer a better flavor.</en>
+</text>
+<text id="contenido13">
+	<es>Prueba diferentes métodos de preparación</es>
+    <en>Try different brewing methods</en>
+</text>
+<text id="contenido14">
+	<es>La manera en que preparas el café influye en su sabor. Experimenta con diferentes métodos de preparación (como la prensa francesa, el espresso, la cafetera italiana o el goteo) para encontrar cuál te da el mejor sabor según el tipo de café que elijas.</es>
+    <en>The way you brew coffee influences its taste. Experiment with different brewing methods (such as French press, espresso, Italian coffee maker, or drip) to find which one gives you the best flavor based on the type of coffee you choose.</en>
+</text>
+<text id="contenido15">
+	<es>Algunas bebidas permiten seleccionar la temperatura de servicio. Elige si prefieres tu bebida muy caliente, tibia o fría.</es>
+    <en>Some drinks allow you to select the serving temperature. Choose whether you prefer your drink very hot, warm or cold.</en>
+</text>
+<text id="contenido16">
+	<es>6.Agrega sabores y extras:</es>
+    <en>6.Add flavors and extras:</en>
+</text>
+<text id="contenido17">
+	<es>Si deseas, puedes agregar algo más a tu pedido, como pastelito, galletas o cualquier otro producto disponible en nuestro menú.</es>
+    <en>If you wish, you can add something else to your order, such as cupcake, cookies or any other product available on our menu. </en>
+</text>
+<text id="contenido18">
+	<es>7. Revisa tu pedido:</es>
+    <en>7. Review your order:</en>
+</text>
+<text id="contenido19">
+	<es>Una vez que hayas personalizado todos los detalles de tu bebida, revisa tu selección en el resumen de pedido para asegurarte de que todo esté como lo deseas.</es>
+    <en>Once you've customized all the details of your drink, review your selection in the order summary to make sure everything is as you want it.</en>
+</text>
+<text id="contenido20">
+	<es>Asegúrate de verificar el tamaño, los ingredientes y los extras seleccionados.</es>
+    <en>Be sure to check the size, ingredients, and extras selected.</en>
+</text>
+<text id="contenido21">
+	<es>8. Confirma tu pedido:</es>
+    <en>8. Confirm your order:</en>
+</text>
+<text id="contenido22">
+	<es>Una vez que estés satisfecho con tu elección, confirma tu pedido.</es>
+    <en>Once you're happy with your choice, confirm your order.</en>
+</text>
+<text id="contenido23">
+	<es>Si estás en línea, selecciona la opción de pago y el método de entrega (si aplicable). Si estás en la tienda, paga en el mostrador o en el área de autoservicio.</es>
+    <en>If you're online, select your payment option and delivery method (if applicable). If you're in the store, pay at the counter or in the drive-thru area.</en>
+</text>
+<text id="contenido24">
+	<es>9. ¡Disfruta tu bebida personalizada!</es>
+    <en>9. Enjoy your personalized drink!</en>
+</text>
+<text id="contenido25">
+	<es>Tu bebida estará lista en breve, adaptada exactamente a tu gusto. ¡Relájate y disfruta de una experiencia única y deliciosa!</es>
+    <en>Your drink will be ready shortly, tailored exactly to your taste. Relax and enjoy a unique and delicious experience!</en>
+</text>
+<text id="contenido26">
+	<es>yaaaaa resiste y lo lograras</es>
+    <en>yes i do </en>
+</text>
+<text id="contenido27">
+	<es>yaaaaa acabaaaa aribaaa</es>
+    <en>yes i do </en>
+</text>
+<text id="contenido28">
+	<es>vas bien continua</es>
+    <en>thank you so much</en>
+</text>
+<text id="contenido29">
+	<es>no te duermas dddale</es>
+    <en>so cute</en>
+</text>
+<text id="contenido30">
+	<es>yaaaaa resiste y lo lograras</es>
+    <en>yes i do </en>
+</text>
+</translations>
+
+

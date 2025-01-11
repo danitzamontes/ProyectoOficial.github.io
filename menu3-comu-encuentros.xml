@@ -1,0 +1,543 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translations>
+    <menu>
+        <item id="inicio">
+            <es>
+                <name>Inicio</name>
+                <link>inicio.html</link>
+                <submenu>
+                    <item>
+                        <name>Descripción del configurador</name>
+                        <link>inicio-descripcion.html</link>
+                    </item>
+                    <item>
+                        <name>Propósito de personalizar los pedidos</name>
+                        <link>inicio-proposito.html</link>
+                    </item>
+                    <item>
+                        <name>Instrucciones para hacer un pedido</name>
+                        <link>inicio-instrucciones.html</link>
+                    </item>
+                    <item>
+                        <name>Preguntas frecuentes</name>
+                        <link>inicio-preguntas.html</link>
+                    </item>
+                </submenu>
+            </es>
+            <en>
+                <name>Start</name>
+                <link>inicio.html</link>
+                <submenu>
+                    <item>
+                        <name>Configurator Description</name>
+                        <link>inicio-descripcion.html</link>
+                    </item>
+                    <item>
+                        <name>Purpose of customizing orders</name>
+                        <link>inicio-proposito.html</link>
+                    </item>
+                    <item>
+                        <name>Instructions for placing an order</name>
+                        <link>inicio-instrucciones.html</link>
+                    </item>
+                    <item>
+                        <name>Frequently asked questions</name>
+                        <link>inicio-preguntas.html</link>
+                    </item>
+                </submenu>
+            </en>
+        </item>
+        <item id="selecciondeproductos">
+            <es>
+                <name>Selección de productos</name>
+                <link>selecciondeproductos.html</link>
+                <submenu>
+                    <item>
+                        <name>Opciones de bebidas</name>
+                        <link>selec-opciones.html</link>
+                    </item>
+                    <item>
+                        <name>Selección de alimentos</name>
+                        <link>selec-alimentos.html</link>
+                    </item>
+                    <item>
+                        <name>Personalización de las opciones</name>
+                        <link>selec-personalizacion.html</link>
+                    </item>
+                    <item>
+                        <name>Confirmación de selección</name>
+                        <link>selec-confirmacion.html</link>
+                    </item>
+                </submenu>
+            </es>
+            <en>
+                <name>Product selection</name>
+                <link>selecciondeproductos.html</link>
+                <submenu>
+                    <item>
+                        <name>Beverage Options</name>
+                        <link>selec-opciones.html</link>
+                    </item>
+                    <item>
+                        <name>Food selection</name>
+                        <link>selec-alimentos.html</link>
+                    </item>
+                    <item>
+                        <name>Customization of options</name>
+                        <link>selec-personalizacion.html</link>
+                    </item>
+                    <item>
+                        <name>Selection confirmation</name>
+                        <link>selec-confirmacion.html</link>
+                    </item>
+                </submenu>
+            </en>
+        </item>
+        <item id="resumendepedidos">
+            <es>
+                <name>Resumen de pedidos</name>
+                <link>resumendepedidos.html</link>
+                <submenu>
+                    <item>
+                        <name>Detalles del pedido final</name>
+                        <link>resumen-detalles.html</link>
+                    </item>
+                    <item>
+                        <name>Opciones de pago</name>
+                        <link>resumen-opciones.html</link>
+                    </item>
+                    <item>
+                        <name>Dirección de entrega o recogida</name>
+                        <link>resumen-direccion.html</link>
+                    </item>
+                    <item>
+                        <name>Confirmación de pedido</name>
+                        <link>resumen-opciones.html</link>
+                    </item>
+                </submenu>
+            </es>
+            <en>
+                <name>Order Overview</name>
+                <link>resumenpedidos.html</link>
+                <submenu>
+                    <item>
+                        <name>Final Order Details</name>
+                        <link>resumen-detalles.html</link>
+                    </item>
+                    <item>
+                        <name>Payment Options</name>
+                        <link>resumen-opciones.html</link>
+                    </item>
+                    <item>
+                        <name>Delivery or pick-up address</name>
+                        <link>resumen-direccion.html</link>
+                    </item>
+                    <item>
+                        <name>Order confirmation</name>
+                        <link>resumen-opciones.html</link>
+                    </item>
+                </submenu>
+            </en>
+        </item>
+        <item id="recomendaciones">
+            <es>
+                <name>Recomendaciones</name>
+                <link>recomendaciones.html</link>
+                <submenu>
+                    <item>
+                        <name>Productos populares</name>
+                        <link>reco-productos.html</link>
+                    </item>
+                    <item>
+                        <name>Ofertas y descuentos especiales</name>
+                        <link>reco-ofertas.html</link>
+                    </item>
+                    <item>
+                        <name>Sugerencias según tus preferencias</name>
+                        <link>reco-sugerencias.html</link>
+                    </item>
+                    <item>
+                        <name>Opciones para modificar tus pedidos</name>
+                        <link>reco-opciones.html</link>
+                    </item>
+                </submenu>
+            </es>
+            <en>
+                <name>Recommendations</name>
+                <link>recomendaciones.html</link>
+                <submenu>
+                    <item>
+                        <name>Popular Products</name>
+                        <link>reco-productos.html</link>
+                    </item>
+                    <item>
+                        <name>Special offers and discounts</name>
+                        <link>reco-ofertas.html</link>
+                    </item>
+                    <item>
+                        <name>Suggestions based on your preferences</name>
+                        <link>reco-sugerencias.html</link>
+                    </item>
+                    <item>
+                        <name>Options to modify your orders</name>
+                        <link>reco-opciones.html</link>
+                    </item>
+                </submenu>
+            </en>
+        </item>
+        <item id="comunidad">
+            <es>
+                <name>Comunidad</name>
+                <link>comunidad.html</link>
+                <submenu>
+                    <item>
+                        <name>Foro sobre productos favoritos</name>
+                        <link>comu-foro.html</link>
+                    </item>
+                    <item>
+                        <name>Valoración y reseñas de otros clientes</name>
+                        <link>comu-valoracion.html</link>
+                    </item>
+                    <item>
+                        <name>Encuentros de café temáticos</name>
+                        <link>comu-encuentros.html</link>
+                    </item>
+                    <item>
+                        <name>Promociones exclusivas para miembros</name>
+                        <link>comu-promociones.html</link>
+                    </item>
+                </submenu>
+            </es>
+            <en>
+                <name>Community</name>
+                <link>comunidad.html</link>
+                <submenu>
+                    <item>
+                        <name>Favorite Products Forum</name>
+                        <link>comu-foro.html</link>
+                    </item>
+                    <item>
+                        <name>Rating and reviews from other customers</name>
+                        <link>comu-valoracion.html</link>
+                    </item>
+                    <item>
+                        <name>Themed coffee meetings</name>
+                        <link>comu-encuentros.html</link>
+                    </item>
+                    <item>
+                        <name>Exclusive Promotions for Members</name>
+                        <link>comu-promociones.html</link>
+                    </item>
+                </submenu>
+            </en>
+        </item>
+        <item id="extras">
+            <es>
+                <name>Extras</name>
+                <link>extras.html</link>
+                <submenu>
+                    <item>
+                        <name>Recetas de bebidas caseras</name>
+                        <link>extra-recetas.html</link>
+                    </item>
+                    <item>
+                        <name>Consejos para elegir el mejor café</name>
+                        <link>extra-consejos.html</link>
+                    </item>
+                    <item>
+                        <name>Videos sobre como preparar café</name>
+                        <link>extra-videos.html</link>
+                    </item>
+                    <item>
+                        <name>Comparativas de cafeterías locales</name>
+                        <link>extra-comparativas.html</link>
+                    </item>
+                </submenu>
+            </es>
+            <en>
+                <name>Extras</name>
+                <link>extras.html</link>
+                <submenu>
+                    <item>
+                        <name>Homemade drink recipes</name>
+                        <link>extra-recetas.html</link>
+                    </item>
+                    <item>
+                        <name>Tips for choosing the best coffee</name>
+                        <link>extra-consejos.html</link>
+                    </item>
+                    <item>
+                        <name>Videos on how to brew coffee</name>
+                        <link>extra-videos.html</link>
+                    </item>
+                    <item>
+                        <name>Local coffee shop comparisons</name>
+                        <link>extra-comparativas.html</link>
+                    </item>
+                </submenu>
+            </en>
+        </item>
+        <item id="faq">
+            <es>
+                <name>FAQ</name>
+                <link>faq.html</link>
+                <submenu>
+                    <item>
+                        <name>¿Cómo cambiar mi pedido?</name>
+                        <link>faq-cambio.html</link>
+                    </item>
+                    <item>
+                        <name>Política de devoluciones</name>
+                        <link>faq-politica.html</link>
+                    </item>
+                    <item>
+                        <name>Información sobre ingredientes</name>
+                        <link>faq-informacion.html</link>
+                    </item>
+                    <item>
+                        <name>Contactar soporte</name>
+                        <link>faq-contactar.html</link>
+                    </item>
+                </submenu>
+            </es>
+            <en>
+                <name>FAQ</name>
+                <link>faq.html</link>
+                <submenu>
+                    <item>
+                        <name>How do I change my order?</name>
+                        <link>faq-cambio.html</link>
+                    </item>
+                    <item>
+                        <name>Return Policy</name>
+                        <link>faq-politica.html</link>
+                    </item>
+                    <item>
+                        <name>Ingredient Information</name>
+                        <link>faq-informacion.html</link>
+                    </item>
+                    <item>
+                        <name>Contact Support</name>
+                        <link>faq-contactar.html</link>
+                    </item>
+                </submenu>
+            </en>
+        </item>
+        <item id="contacto">
+            <es>
+                <name>Contacto</name>
+                <link>contacto.html</link>
+                <submenu>
+                    <item>
+                        <name>Formulario de contacto</name>
+                        <link>contacto-formulario.html</link>
+                    </item>
+                    <item>
+                        <name>Redes sociales</name>
+                        <link>contacto-redes.html</link>
+                    </item>
+                    <item>
+                        <name>Feedback y sugerencias</name>
+                        <link>contacto-feedback.html</link>
+                    </item>
+                </submenu>
+            </es>
+            <en>
+                <name>Contact</name>
+                <link>contacto.html</link>
+                <submenu>
+                    <item>
+                        <name>Contact form</name>
+                        <link>contacto-formulario.html</link>
+                    </item>
+                    <item>
+                        <name>Social Media</name>
+                        <link>contacto-redes.html</link>
+                    </item>
+                    <item>
+                        <name>Feedback and suggestions</name>
+                        <link>contacto-feedback.html</link>
+                    </item>
+                </submenu>
+            </en>
+        </item>
+    </menu>
+    <!--hasta aqui todo el menu funcional-->
+    <text id="educontenido">
+    <es>QUE TE PARECIÓ </es>
+    <en>WHAT DO YOU THINK</en>
+    </text>
+    <text id="edu">
+	<es>LOS RECUERDOS</es>
+    <en>THE MEMORIES</en>
+    </text>
+    <text id="juanita1">
+	<es>QUE SE VIVIO </es>
+    <en>WHAT WAS EXPERIENCED</en>
+</text>
+<text id="juanita2">
+	<es>EN LOS ENCUENTROS</es>
+    <en>IN THE MEETINGS</en>
+</text>
+<text id="juanita3">
+	<es>DE CAFÉ</es>
+    <en>COFFEE</en>
+</text>
+<text id="juanita">
+	<es>disfruta los encuentros</es>
+    <en>Enjoy the Encounters</en>
+</text>
+<text id="contenido1">
+	<es>Encuentros de café temáticos</es>
+    <en>Themed coffee meetings</en>
+</text>
+<text id="contenido2">
+	<es>Queremos agradecer a todos los que nos acompañaron en nuestro encuentro de café temático. ¡Fue una experiencia increíble, llena de buena compañía, aromas deliciosos y momentos especiales!
+                        Durante el evento, exploramos juntos distintos tipos de café, desde los clásicos hasta algunas bebidas innovadoras. Aprendimos sobre los orígenes del café, descubrimos secretos sobre su preparación y, lo más importante, compartimos nuestras pasiones y conocimientos sobre esta bebida que tanto amamos.</es>
+    <en>We want to thank everyone who joined us at our themed coffee meetup. It was an amazing experience, full of good company, delicious aromas, and special moments!
+                        During the event, we explored different types of coffee together, from classics to some innovative drinks. We learned about the origins of coffee, discovered secrets about its preparation, and most importantly, shared our passions and knowledge about this beverage we love so much.</en>
+</text>
+<text id="contenido3">
+	<es>Conoce más de estos encuentros</es>
+    <en>Learn more about these meetings</en>
+</text>
+<text id="contenido4">
+	<es>¡RECUERDO DE LOS ENCUENTROS!</es>
+    <en>MEMORY OF THE MEETINGS!</en>
+</text>
+<text id="contenido5">
+	<es>Encuentro en Potosí</es>
+    <en>Meeting in Potosí</en>
+</text>
+<text id="contenido8">
+	<es>Ver más</es>
+    <en>See more</en>
+</text>
+<text id="contenido9">
+	<es>Encuentro en Beni</es>
+    <en>Meeting in Beni</en>
+</text>
+<text id="contenido10">
+	<es>Ver más</es>
+    <en>See more</en>
+</text>
+<text id="contenido11">
+	<es>Encuentro del café</es>
+    <en>Coffee meeting</en>
+</text>
+<text id="contenido12">
+	<es>Ver más</es>
+    <en>See more</en>
+</text>
+<text id="contenido13">
+	<es>Recuerdos</es>
+    <en>Memories</en>
+</text>
+<text id="contenido14">
+	<es>Ver más</es>
+    <en>See more</en>
+</text>
+<text id="contenido15">
+	<es>Equipo A</es>
+    <en>A-Team</en>
+</text>
+<text id="contenido16">
+	<es>Ver más</es>
+    <en>See more</en>
+</text>
+<text id="contenido17">
+	<es>fraternidad</es>
+    <en>Fraternity </en>
+</text>
+<text id="contenido18">
+	<es>Ver más</es>
+    <en>See more</en>
+</text>
+<text id="contenido19">
+	<es>Recuerdos</es>
+    <en>Memories</en>
+</text>
+<text id="contenido20">
+	<es>Ver más</es>
+    <en>See more</en>
+</text>
+<text id="contenido21">
+	<es>Encuentro</es>
+    <en>Encounter</en>
+</text>
+<text id="contenido22">
+	<es>Ver más</es>
+    <en>See more</en>
+</text>
+<text id="contenido23">
+	<es>Conoce a nuestro equipo </es>
+    <en>Meet our team</en>
+</text>
+<text id="contenido24">
+	<es>TÉ DE CEDRON</es>
+    <en>LEMON VERBENA TEA</en>
+</text>
+<text id="contenido25">
+	<es>Seleccionar</es>
+    <en>Select</en>
+</text>
+<text id="contenido26">
+	<es>TÉ DE JENGIBRE</es>
+    <en>GINGER TEA</en>
+</text>
+<text id="contenido27">
+	<es>Seleccionar</es>
+    <en>Select</en>
+</text>
+<text id="contenido28">
+	<es>TÉ DE LAVANDA</es>
+    <en>LAVENDER TEA</en>
+</text>
+<text id="contenido29">
+	<es>Seleccionar</es>
+    <en>Select</en>
+</text>
+<text id="contenido30">
+	<es>TÉ DE MANZANILLA</es>
+    <en>CHAMOMILE TEA</en>
+</text>
+<text id="contenido31">
+	<es>Seleccionar</es>
+    <en>Select</en>
+</text>
+<text id="contenido32">
+	<es>TÉ DE MENTA</es>
+    <en>MINT TEA</en>
+</text>
+<text id="contenido33">
+	<es>Seleccionar</es>
+    <en>Select</en>
+</text>
+<text id="contenido34">
+	<es>TÉ DE JAMAICA</es>
+    <en>HIBISCUS TEA</en>
+</text>
+<text id="contenido35">
+	<es>Seleccionar</es>
+    <en>Select</en>
+</text>
+<text id="contenido36">
+	<es>TÉ DE TILO</es>
+    <en>LINDEN TEA</en>
+</text>
+<text id="contenido37">
+	<es>Seleccionar</es>
+    <en>Select</en>
+</text>
+<text id="contenido38">
+	<es>TÉ DE ANÍS</es>
+    <en>ANANISE TEA</en>
+</text>
+<text id="contenido39">
+	<es>Seleccionar</es>
+    <en>Select</en>
+</text>
+
+</translations>
+
+
