@@ -1,0 +1,24 @@
+[
+  {
+      "id": 1,
+      "nombre": "Maria Gomez",
+      "bebida": "Café Expres",
+      "tamaño": "Mediano",
+      "edulzante": "Estebia",
+      "acompañamiento": "Galletas",
+      "numPersons": 4,
+      "observaciones": "Sin azúcar",
+      "confirmation": true
+  },
+  {
+      "id": 2,
+      "nombre": "Carlos Mendoza",
+      "bebida": "Capuchino",
+      "tamaño": "Grande",
+      "edulzante": "Azúcar",
+      "acompañamiento": "Magdalena",
+      "numPersons": 2,
+      "observaciones": "Alérgica al maní",
+      "confirmation": false
+  }
+]
